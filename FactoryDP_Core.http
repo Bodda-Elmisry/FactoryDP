@@ -1,0 +1,6 @@
+@FactoryDP_Core_HostAddress = http://localhost:5274
+
+GET {{FactoryDP_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
