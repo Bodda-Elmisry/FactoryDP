@@ -30,3 +30,4 @@ D:\test\C#\FactoryDP_Core\FactoryDP_Core\obj\Debug\net8.0\refint\FactoryDP_Core.
 D:\test\C#\FactoryDP_Core\FactoryDP_Core\obj\Debug\net8.0\FactoryDP_Core.pdb
 D:\test\C#\FactoryDP_Core\FactoryDP_Core\obj\Debug\net8.0\FactoryDP_Core.genruntimeconfig.cache
 D:\test\C#\FactoryDP_Core\FactoryDP_Core\obj\Debug\net8.0\ref\FactoryDP_Core.dll
+D:\test\C#\FactoryDP_Core\FactoryDP_Core\obj\Debug\net8.0\FactoryDP_Core.sourcelink.json

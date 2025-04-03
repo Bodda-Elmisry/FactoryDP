@@ -10,10 +10,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<EmialNotificationService>();
-builder.Services.AddTransient<SMSNotificationService>();
-builder.Services.AddTransient<AppNotificationService>();
-
 builder.Services.AddSingleton<NotificationFactory>();
 
 var app = builder.Build();
